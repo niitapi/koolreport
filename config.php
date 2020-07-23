@@ -1,9 +1,9 @@
 <?php
 return array(
     "automaker"=>array(
-        "connectionString"=>"mysql:host=sampledb.koolreport.com;dbname=automaker",
-        "username"=>"expusr",
-        "password"=>"koolreport sampledb",
+        "connectionString"=>"mysql:host=10.10.18.155;dbname=automaker",
+        "username"=>"root",
+        "password"=>"StgDW#321",
         "charset"=>"utf8"
     ),
     "sakila"=>array(
